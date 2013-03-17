@@ -10,3 +10,8 @@ it!
 2. Apply to a cron task
 3. Wait
 
+### Basic `mail` usage
+
+* Type `mail` to check mail for current user
+* In the mail repl, use `dt` to delete a message
+* Type `q` to quit and save changes (message delete/read)
