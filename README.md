@@ -1,8 +1,8 @@
-# GrabIt
+# Watcher
 
-Yep. Go ahead and grab it! Give this little script a website to look at, a
-phrase to look for, a subject and body and then set it on a cron task and forget
-it!
+Give this little script a website to look at, a phrase to look for, a subject
+and body and then set it on a cron task and forget it! Let the script do the
+watching.
 
 ## Usage
 
